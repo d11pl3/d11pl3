@@ -37,7 +37,7 @@
 <img align="left" alt="PostgresQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="Swift" width="26px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" />
 <img align="left" alt="SwiftUI" width="26px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png" />
-<img align="left" alt="Docker" width="26px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
+
 <br />
 
 [website]: https://d11pl3github.io
