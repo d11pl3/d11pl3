@@ -40,7 +40,7 @@
 
 <br />
 
-[website]: https://d11pl3github.io
+[website]: https://d11pl3.github.io
 [twitter]: https://twitter.com/d11pl3
 [instagram]: https://instagram.com/d11pl3
 [linkedin]: https://www.linkedin.com/in/ahmet-yusuf-başaran-107b05139
