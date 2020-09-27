@@ -37,6 +37,7 @@
 <img align="left" alt="PostgresQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="Swift" width="26px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" />
 <img align="left" alt="SwiftUI" width="26px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png" />
+<img align="left" alt="Python" width="26px" src="https://o.remove.bg/downloads/f10be252-00e5-41f0-976d-41272a851a73/python_logo-removebg-preview.png" />
 
 <br />
 
