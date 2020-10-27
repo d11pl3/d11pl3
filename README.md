@@ -40,4 +40,7 @@
 [instagram]: https://instagram.com/d11pl3
 [linkedin]: https://www.linkedin.com/in/ahmet-yusuf-başaran-107b05139
 
+<br />
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g5571bvtoizkf8lbd75h7r4pj&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
