@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=d11pl3.github.io&style=for-the-badge&url=https://d11pl3.github.io)](https://d11pl3.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/d11pl3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=d11pl3)
 
-## I'm a Computer Engineer and Student
+## I'm a Computer Engineering Student
 
 - 🌱 I’m currently learning SwiftUI
 - 🥅 2021 Goals: I'll be chasing my dreams (Set up a company)
