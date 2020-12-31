@@ -43,4 +43,4 @@
 
 <br />
 
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/d11pl3)
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=d11pl3&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/d11pl3)
