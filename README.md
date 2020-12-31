@@ -6,9 +6,9 @@
 
 ## I'm a Computer Engineering Student
 
-- 🌱 I’m currently learning SwiftUI
-- 🥅 2021 Goals: I'll be chasing my dreams (Set up a company)
-- ⚡ Fun fact: I love to listen music and watch national football matches
+- 🌱 I’m currently learning PyQt5,Concurency,Redis,PostgreSQL,Firebase,SwiftUI,Figma.
+- 🥅 2021 Goals: I'll be chasing my dreams.
+- ⚡ Fun fact: I love to listen music and watch national football matches.
 
 ### Connect with me:
 
