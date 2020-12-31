@@ -33,7 +33,7 @@
 <img align="left" alt="Swift" width="26px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" />
 <img align="left" alt="SwiftUI" width="26px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png" />
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzOCA1NyIgY2xhc3M9InN2ZyI+CiAgPHBhdGggZmlsbD0iIzFhYmNmZSIgZD0iTTE5IDI4LjVhOS41IDkuNSAwIDEgMSAxOSAwIDkuNSA5LjUgMCAwIDEtMTkgMHoiLz4KICA8cGF0aCBmaWxsPSIjMGFjZjgzIiBkPSJNMCA0Ny41QTkuNSA5LjUgMCAwIDEgOS41IDM4SDE5djkuNWE5LjUgOS41IDAgMSAxLTE5IDB6Ii8+CiAgPHBhdGggZmlsbD0iI2ZmNzI2MiIgZD0iTTE5IDB2MTloOS41YTkuNSA5LjUgMCAxIDAgMC0xOUgxOXoiLz4KICA8cGF0aCBmaWxsPSIjZjI0ZTFlIiBkPSJNMCA5LjVBOS41IDkuNSAwIDAgMCA5LjUgMTlIMTlWMEg5LjVBOS41IDkuNSAwIDAgMCAwIDkuNXoiLz4KICA8cGF0aCBmaWxsPSIjYTI1OWZmIiBkPSJNMCAyOC41QTkuNSA5LjUgMCAwIDAgOS41IDM4SDE5VjE5SDkuNUE5LjUgOS41IDAgMCAwIDAgMjguNXoiLz4KPC9zdmc+Cg=="  alt="Figma" width="26px">
+<img src="https://miro.medium.com/max/700/1*6XgfDCVn81AYX68Xvd2I-g@2x.png"  alt="Figma" width="26px">
 <br />
 
 [website]: https://d11pl3.github.io
