@@ -5,7 +5,7 @@
 
 ## I'm a Computer Engineering Student
 
-- 🌱 I’m currently learning PyQt5,Concurency,Redis,PostgreSQL,Firebase,SwiftUI,Figma.
+- 🌱 I’m currently learning Javascript,Vuejs,Typescript,Graphql,SOLID,Figma.
 - 🥅 2021 Goals: I'll be chasing my dreams.
 - ⚡ Fun fact: I love to listen music and watch national football matches.
 
