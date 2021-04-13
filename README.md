@@ -36,8 +36,8 @@
 <br />
 
 [website]: https://d11pl3.github.io
-[twitter]: https://twitter.com/d11pl3
-[instagram]: https://instagram.com/d11pl3
+[twitter]: https://twitter.com/AYusufBasaran
+[instagram]: https://instagram.com/d11pl3_
 [linkedin]: https://www.linkedin.com/in/ahmet-yusuf-başaran-107b05139
 
 <br />
