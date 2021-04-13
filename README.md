@@ -5,7 +5,7 @@
 
 ## I'm a Computer Engineering Student
 
-- 🌱 I’m currently hanging out with Vuejs,OOP,SOLID,Typescript,Graphql,Figma.
+- 🌱 I’m currently hanging out with Vuejs,Figma,Typescript,SCSS,Expressjs,Graphql
 - 🥅 2021 Goals: I'll be chasing my dreams.
 - ⚡ Fun fact: I love to listen music and watch national football matches.
 
