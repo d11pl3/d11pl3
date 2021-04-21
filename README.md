@@ -14,7 +14,6 @@
 [<img align="left" alt="d11pl3.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="d11pl3 | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="d11pl3 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="d11pl3 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -37,7 +36,6 @@
 
 [website]: https://d11pl3.github.io
 [twitter]: https://twitter.com/AYusufBasaran
-[instagram]: https://instagram.com/d11pl3_
 [linkedin]: https://www.linkedin.com/in/ahmet-yusuf-başaran-107b05139
 
 <br />
